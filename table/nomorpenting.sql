@@ -1,0 +1,13 @@
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('1', 'cilegon', 'Rumah Sakit KS', '+62254372121');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('2', 'cilegon', 'PLN Cilegon', '+62254200716');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('3', 'cilegon', 'Pemadam Kebakaran', '+62254377113');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('4', 'cilegon', 'PMI Cilegon', '+62254376888');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('5', 'cilegon', 'Polres Cilegon', '+62254201657');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('6', 'cilegon', 'Bank Mandiri Cilegon', '+62254391211');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('7', 'cilegon', 'Bank BCA Cilegon', '+62254397354');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('8', 'cilegon', 'Bank BNI Cilegon', '+62254388659');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('9', 'cilegon', 'Bank BJB', '+62254398718');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('10', 'cilegon', 'Gangguan Penerangan Jalan Umum', '+62254385522');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('11', 'cilegon', 'BPBD Cilegon', '+622547870720');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('12', 'cilegon', 'RSUD Cilegon', '+62254330461');
+INSERT INTO "nomorpenting"("id", "wilayah", "nama", "nomortelpon") VALUES ('13', 'cilegon', 'Emergency Number', '112');
